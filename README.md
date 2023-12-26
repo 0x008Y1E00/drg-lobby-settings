@@ -1,6 +1,6 @@
 # [DRG] Lobby Settings
 
-<img alt="UI" src="https://github.com/0x008Y1E00/drg-lobby-settings/blob/main/img_preview.png">
+<img alt="UI" src="https://github.com/0x008Y1E00/drg-lobby-settings/blob/main/img_preview.jpg">
 <hr/>
 <p>The mod is intended for a public server with random players.</p>
 <hr/>
